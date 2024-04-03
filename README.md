@@ -17,3 +17,21 @@ Grouping Selectors.  Odin Project CSS Foundations Exercise C.
 5.  As a user, I should see a unique class name on each element.
 
 6.  As a user, I should have a grouping selector for styles that both elements share.
+
+## Technologies
+
+Uses HTML5 and CSS3.
+
+## Testing
+
+Make sure all user stories have been met.
+
+## Deployment
+
+On [GitHub Pages](https://derektypist.github.io/odin-p-css-foundations-c/) at the main branch.
+
+## Credits
+
+### Acknowledgements
+
+[FreeCodeCamp](https://www.freecodecamp.org)
